@@ -1,2 +1,2 @@
-# phishing-templates
-Phishing model templates for study and testing.
+# phishing-hub 
+Resources and templates that can help with phishing campaigns. 
