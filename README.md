@@ -1,2 +1,2 @@
 # phishing-hub 
-Resources and templates that can help with phishing campaigns. 
+Resources that can assist with phishing campaigns.
